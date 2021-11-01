@@ -1,4 +1,5 @@
 # ESP32-on-Osx-and-Big-Sur
+https://github.com/espressif/arduino-esp32/issues/4408
 by https://github.com/igor17400
 
 I have decided to write a summary for all those reading the post at a later time.
