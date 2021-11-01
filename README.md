@@ -1,5 +1,6 @@
 # ESP32-on-Osx-and-Big-Sur
 by https://github.com/igor17400
+
 I have decided to write a summary for all those reading the post at a later time.
 
 Open your arduino IDE and press command + , to open preferences window.
